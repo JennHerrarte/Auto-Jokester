@@ -1,4 +1,5 @@
-# Auto-Jokester
+![6](https://github.com/jennherrarte/Auto-Jokester/assets/36706323/74a61d04-6590-4a19-873f-3a1c65c2b9f6)
+
 
 APP Link
 [AutoJokester](https://autojokester.herokuapp.com/)
